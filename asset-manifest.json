@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/problem-showcase/static/css/main.a617e044.chunk.css",
-    "main.js": "/problem-showcase/static/js/main.7aa28f8b.chunk.js",
-    "main.js.map": "/problem-showcase/static/js/main.7aa28f8b.chunk.js.map",
-    "runtime-main.js": "/problem-showcase/static/js/runtime-main.9a8d57d6.js",
-    "runtime-main.js.map": "/problem-showcase/static/js/runtime-main.9a8d57d6.js.map",
-    "static/js/2.f0f71795.chunk.js": "/problem-showcase/static/js/2.f0f71795.chunk.js",
-    "static/js/2.f0f71795.chunk.js.map": "/problem-showcase/static/js/2.f0f71795.chunk.js.map",
-    "static/js/3.90b8f14c.chunk.js": "/problem-showcase/static/js/3.90b8f14c.chunk.js",
-    "static/js/3.90b8f14c.chunk.js.map": "/problem-showcase/static/js/3.90b8f14c.chunk.js.map",
+    "main.css": "/problem-showcase/static/css/main.fce4d4ac.chunk.css",
+    "main.js": "/problem-showcase/static/js/main.bb0a0f97.chunk.js",
+    "main.js.map": "/problem-showcase/static/js/main.bb0a0f97.chunk.js.map",
+    "runtime-main.js": "/problem-showcase/static/js/runtime-main.178a7b47.js",
+    "runtime-main.js.map": "/problem-showcase/static/js/runtime-main.178a7b47.js.map",
+    "static/js/2.182fc095.chunk.js": "/problem-showcase/static/js/2.182fc095.chunk.js",
+    "static/js/2.182fc095.chunk.js.map": "/problem-showcase/static/js/2.182fc095.chunk.js.map",
+    "static/js/3.eff8fe78.chunk.js": "/problem-showcase/static/js/3.eff8fe78.chunk.js",
+    "static/js/3.eff8fe78.chunk.js.map": "/problem-showcase/static/js/3.eff8fe78.chunk.js.map",
     "index.html": "/problem-showcase/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/problem-showcase/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.f0f71795.chunk.js.LICENSE.txt": "/problem-showcase/static/js/2.f0f71795.chunk.js.LICENSE.txt"
+    "static/css/main.fce4d4ac.chunk.css.map": "/problem-showcase/static/css/main.fce4d4ac.chunk.css.map",
+    "static/js/2.182fc095.chunk.js.LICENSE.txt": "/problem-showcase/static/js/2.182fc095.chunk.js.LICENSE.txt",
+    "static/media/about4.jpg": "/problem-showcase/static/media/about4.89ac2002.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9a8d57d6.js",
-    "static/js/2.f0f71795.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.7aa28f8b.chunk.js"
+    "static/js/runtime-main.178a7b47.js",
+    "static/js/2.182fc095.chunk.js",
+    "static/css/main.fce4d4ac.chunk.css",
+    "static/js/main.bb0a0f97.chunk.js"
   ]
 }
